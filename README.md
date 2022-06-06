@@ -1,5 +1,5 @@
 # captcha
-پروژه کوچک کپچا با استفاده از جنگ
+پروژه کوچک کپچا با استفاده از جنگو
 ## Description(توضیحات)
 English Language:<br>
 This repository is a very small project in which the captcha system is implemented and used<br>
